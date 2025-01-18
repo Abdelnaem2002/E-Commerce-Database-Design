@@ -1,3 +1,12 @@
+
+  # The E-Commerce Database  Project
+
+
+![Ecommerce](https://github.com/user-attachments/assets/4ec5b93b-98fb-474e-8c3b-3a6bc89efddb)
+
+
+
+
 ![Ecommerc_erd_page-0001](https://github.com/user-attachments/assets/d2d3683f-ccf8-4803-9ea5-88c31124595b)# E-Commerce-Database-project
 
  I made this project for Database Management Systems (DBMS). This project contains theoretical as well as implementation in SQL.
